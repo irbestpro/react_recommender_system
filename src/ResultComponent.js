@@ -1,3 +1,10 @@
+/*
+'''These Codes Are Written By Mehdi Touyserkani
+    Email Address: Ir_Bestpro@yahoo.com
+    Website: Https://www.Ir-Bestpro.com
+ '''
+*/
+
 export default function ResultComponent({results}){
     if(results){
         if(results.score === -1)

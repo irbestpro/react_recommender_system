@@ -1,3 +1,11 @@
+/*
+'''These Codes Are Written By Mehdi Touyserkani
+    Email Address: Ir_Bestpro@yahoo.com
+    Website: Https://www.Ir-Bestpro.com
+ '''
+*/
+
+
 import { JOBS } from "./Data";
 
 //_________Create Chromosome Class_________
