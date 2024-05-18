@@ -1,0 +1,14 @@
+#info{
+    width:"100%";
+    height:"auto";
+    border:"solid thin white";
+    padding : "10px";
+    margin-top:"5px" ; 
+    padding-top:"13px";
+}
+
+#info select , #info input[type = "number"]{
+    padding:"8px";
+    border : "solid thin silver";
+    margin-left : "3px";
+}
